@@ -1,5 +1,5 @@
-activeIncidents: Active Incidents
-allSystemsOperational: All systems are operational
+activeIncidents: Incidentes Activos
+allSystemsOperational: Todos los sistemas estan operando
 incidentReport: "Incident #$NUMBER report →"
 activeIncidentSummary: Opened at $DATE with $POSTS posts
 incidentTitle: Incident $NUMBER Details
