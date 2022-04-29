@@ -8,6 +8,7 @@ sites:
     icon: https://www.google.com/favicon.ico
   - name: Universidad Católica de Pereira
     url: https://www.ucp.edu.co
+    icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/765f9c74c7b240e032e8e6d2829d2f8be33d8eba/assets/logo-vigi-black2.png
   - name: Portal Estudiante y Docente
     url: https://matriculas.ucp.edu.co/se
   - name: UCP Virtual - Moodle
@@ -33,9 +34,9 @@ status-website:
   name: Estatus Universidad Católica de Pereira
   introTitle: "Esta es la página de estado y tiempo de actividad de los diferentes servicios web de la universidad"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Estado
-      href: https://infraestructuragtucp.github.io/estatus/
+  #navbar:
+   # - title: Estado
+    #  href: https://infraestructuragtucp.github.io/estatus/
     #- title: GitHub
      # href: https://github.com/$OWNER/$REPO
 
