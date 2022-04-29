@@ -17,6 +17,8 @@ sites:
     url: http://intranet.ucp.edu.co
   - name: QRFS
     url: https://qrsf.ucp.edu.co
+  - name: Mesa de Ayuda - HelpPeople
+    url: https://mesadeayuda.ucp.edu.co
 assignees:
   - InfraestructuraGTUCP
 status-website:
