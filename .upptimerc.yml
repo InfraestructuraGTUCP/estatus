@@ -29,7 +29,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /estatus
-  logoUrl: https://github.com/InfraestructuraGTUCP/estatus/blob/da859f83229278e355d72f522317f6c52032c391/assets/logo-vigi-black.png
+  logoUrl: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/da859f83229278e355d72f522317f6c52032c391/assets/logo-vigi-black.png
   name: Estatus Universidad Católica de Pereira
   introTitle: "Esta es la página de estado y tiempo de actividad de los diferentes servicios web de la universidad"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
