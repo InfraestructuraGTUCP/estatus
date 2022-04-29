@@ -17,7 +17,7 @@ sites:
     url: https://intranet.ucp.edu.co    
   - name: QRFS
     url: https://qrsf.ucp.edu.co/
-  -  
+  
 assignees:
   - InfraestructuraGTUCP
 status-website:
