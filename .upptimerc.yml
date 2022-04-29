@@ -14,7 +14,7 @@ sites:
   - name: Biblioteca CDCH
     url: https://biblioteca.ucp.edu.co
   - name: Intranet
-    url: http://intranet.ucp.edu.co    
+    url: http://intranet.ucp.edu.co
   - name: QRFS
     url: https://qrsf.ucp.edu.co
 assignees:
