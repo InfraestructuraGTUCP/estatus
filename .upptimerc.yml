@@ -8,16 +8,15 @@ sites:
   - name: Universidad Católica de Pereira
     url: https://www.ucp.edu.co
   - name: Portal Estudiante y Docente
-    url: https://matriculas.ucp.edu.co/se/
+    url: https://matriculas.ucp.edu.co/se
   - name: UCP Virtual - Moodle
-    url: https://www.ucpvirtual.edu.co/
+    url: https://www.ucpvirtual.edu.co
   - name: Biblioteca CDCH
-    url: https://biblioteca.ucp.edu.co/
+    url: https://biblioteca.ucp.edu.co
   - name: Intranet
-    url: https://intranet.ucp.edu.co    
+    url: http://intranet.ucp.edu.co    
   - name: QRFS
-    url: https://qrsf.ucp.edu.co/
-  
+    url: https://qrsf.ucp.edu.co
 assignees:
   - InfraestructuraGTUCP
 status-website:
