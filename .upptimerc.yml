@@ -5,6 +5,7 @@ repo: estatus # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+    icon: https://www.google.com/favicon.ico
   - name: Universidad Católica de Pereira
     url: https://www.ucp.edu.co
   - name: Portal Estudiante y Docente
@@ -14,10 +15,12 @@ sites:
   - name: Biblioteca CDCH
     url: https://biblioteca.ucp.edu.co
   - name: Intranet
+    check: "tcp-ping"
     url: http://intranet.ucp.edu.co
   - name: QRFS
     url: https://qrsf.ucp.edu.co
   - name: Mesa de Ayuda - HelpPeople
+    check: "tcp-ping"
     url: https://mesadeayuda.ucp.edu.co
 assignees:
   - InfraestructuraGTUCP
