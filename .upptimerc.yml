@@ -29,11 +29,11 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  theme: dark
+  theme: night
   baseUrl: /estatus
   logoUrl: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/da859f83229278e355d72f522317f6c52032c391/assets/logo-vigi-black.png
   favicon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/765f9c74c7b240e032e8e6d2829d2f8be33d8eba/assets/logo-vigi-black2.png
-  name: Estatus Universidad Católica de Pereira
+  name: Estatus U Católica Pei
   introTitle: "Página de estado y tiempo de actividad de los diferentes servicios web de la universidad"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   #navbar:
@@ -44,6 +44,44 @@ status-website:
 i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
+  incidentReport: "Incidente n° $NUMBER Ver reporte →"
+  activeIncidentSummary: Abierto a las $DATE con $POSTS publicaciones
+  incidentTitle: Detalles incidente n° $NUMBER
+  incidentDetails: Detalles de incidente
+  incidentFixed: Reparado
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentSubscribe: Subscribirse a actualizaciones
+  incidentViewOnGitHub: Ver en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Regresar a todos los incidentes
+  pastIncidents: Incidentes anteriores
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones
+  liveStatus: Estado Actual
+  overallUptime: "Estado general: $UPTIME"
+  overallUptimeTitle: Estado actividad general
+  averageResponseTime: "Tiempo de respuesta Promedio: $TIMEs"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta durante 7 días 
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Activo
+  down: Caido
+  degraded: Degradado
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  footer: Esta página es un [recurso abierto]($REPO), desplegado por Gestión Tecnológica y desarrollado por [Upptime](https://upptime.js.org)
+  scheduledMaintenance: Mantenimiento Programado
+  scheduledMaintenanceSummaryStarted: Inició el $DATE durante $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Inicia el $DATE durante $DURATION minutos
+  startedAt: Comenzó el
+  startsAt: inicia el
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Terminado
+  incidentScheduled: Programado
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
