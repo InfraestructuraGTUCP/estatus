@@ -29,18 +29,21 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  theme: ocean
+  theme: dark
   baseUrl: /estatus
   logoUrl: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/da859f83229278e355d72f522317f6c52032c391/assets/logo-vigi-black.png
   favicon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/765f9c74c7b240e032e8e6d2829d2f8be33d8eba/assets/logo-vigi-black2.png
   name: Estatus Universidad Católica de Pereira
-  introTitle: "Esta es la página de estado y tiempo de actividad de los diferentes servicios web de la universidad"
+  introTitle: "Página de estado y tiempo de actividad de los diferentes servicios web de la universidad"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   #navbar:
    # - title: Estado
     #  href: https://infraestructuragtucp.github.io/estatus/
     #- title: GitHub
      # href: https://github.com/$OWNER/$REPO
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
