@@ -11,18 +11,24 @@ sites:
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/765f9c74c7b240e032e8e6d2829d2f8be33d8eba/assets/logo-vigi-black2.png
   - name: Portal Estudiante y Docente
     url: https://matriculas.ucp.edu.co/se
+    icon: https://img.icons8.com/color/96/000000/classroom.png
   - name: UCP Virtual - Moodle
     url: https://www.ucpvirtual.edu.co
+    icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/ucpvirtual.png
   - name: Biblioteca CDCH
     url: https://biblioteca.ucp.edu.co
+    icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/bcdch.png
   - name: Intranet
     check: "tcp-ping"
     url: http://intranet.ucp.edu.co
+    icon: https://img.icons8.com/color/96/000000/ms-share-point.png
   - name: QRFS
     url: https://qrsf.ucp.edu.co
+    icon: https://img.icons8.com/color/96/000000/complaints.png
   - name: Mesa de Ayuda - HelpPeople
     check: "tcp-ping"
     url: https://mesadeayuda.ucp.edu.co
+    icon: https://img.icons8.com/fluency/96/000000/help.png
 assignees:
   - InfraestructuraGTUCP
 status-website:
@@ -46,7 +52,7 @@ i18n:
   allSystemsOperational: Todos los sistemas están operativos
   incidentReport: "Incidente n° $NUMBER Ver reporte →"
   activeIncidentSummary: Abierto a las $DATE con $POSTS publicaciones
-  incidentTitle: Detalles incidente n° $NUMBER
+  incidentTitle: Detalles de incidente n° $NUMBER
   incidentDetails: Detalles de incidente
   incidentFixed: Reparado
   incidentOngoing: En curso
@@ -57,11 +63,11 @@ i18n:
   incidentCommentSummary: Publicado el $DATE por $AUTHOR
   incidentBack: ← Regresar a todos los incidentes
   pastIncidents: Incidentes anteriores
-  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones
+  pastIncidentsResolved: Resuelto en $MINUTES minutos, tiene $POSTS publicaciones
   liveStatus: Estado Actual
   overallUptime: "Estado general: $UPTIME"
   overallUptimeTitle: Estado actividad general
-  averageResponseTime: "Tiempo de respuesta Promedio: $TIMEs"
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
   averageResponseTimeTitle: Respuesta promedio
   sevelDayResponseTime: Tiempo de respuesta durante 7 días 
   responseTimeMs: Tiempo de respuesta (ms)
