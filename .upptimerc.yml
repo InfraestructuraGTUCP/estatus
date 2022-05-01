@@ -22,7 +22,7 @@ sites:
     icon: https://img.icons8.com/color/96/000000/ms-share-point.png
   - name: Múltiples Webs
     url: $MULTIPLESITES_UCP
-    icon: https://img.icons8.com/cotton/64/000000/web-apps.png
+    icon: https://img.icons8.com/nolan/96/squared-menu.png
   - name: QRFS
     url: https://qrsf.ucp.edu.co
     icon: https://img.icons8.com/color/96/000000/complaints.png
