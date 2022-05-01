@@ -62,7 +62,6 @@ i18n:
   incidentViewOnGitHub: Ver en GitHub
   incidentCommentSummary: Publicado el $DATE por $AUTHOR
   incidentBack: ← Regresar a todos los incidentes
-  pastIncidents: Incidentes anteriores
   pastIncidentsResolved: Resuelto en $MINUTES minutos, tiene $POSTS publicaciones
   liveStatus: Estado Actual
   overallUptime: "Estado general: $UPTIME"
