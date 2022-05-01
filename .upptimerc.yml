@@ -34,16 +34,16 @@ sites:
   - name: DNS 1
     check: "tcp-ping"
     url: w2k12r2-dns1.ucp.edu.co
+    icon: https://img.icons8.com/ios/100/000000/dns.png
     port: 53
   - name: DNS 2
     check: "tcp-ping"
     url: w2k12r2-dns2.ucp.edu.co
+    icon: https://img.icons8.com/ios/100/000000/dns.png
     port: 53
 assignees:
   - InfraestructuraGTUCP
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: estado.ucp.edu.co
   theme: night
   #baseUrl: /estatus
@@ -98,7 +98,3 @@ i18n:
   durationMin: $DURATION minutos
   incidentCompleted: Terminado
   incidentScheduled: Programado
-
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
