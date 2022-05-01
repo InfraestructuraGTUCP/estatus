@@ -54,7 +54,7 @@ status-website:
   #introMessage:
   navbar:
     - title: Estado
-      href: https:estado.ucp.edu.co
+      href: https://estado.ucp.edu.co
     #- title: GitHub
      # href: https://github.com/$OWNER/$REPO
 i18n:
