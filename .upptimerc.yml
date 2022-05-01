@@ -31,6 +31,10 @@ sites:
     - 401
     url: https://mesadeayuda.ucp.edu.co
     icon: https://img.icons8.com/fluency/96/000000/help.png
+  - name: DNS 1
+    check: "tcp-ping"
+    url: w2k12r2-dns1.ucp.edu.co
+    port: 53
 assignees:
   - InfraestructuraGTUCP
 status-website:
@@ -43,7 +47,7 @@ status-website:
   favicon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/765f9c74c7b240e032e8e6d2829d2f8be33d8eba/assets/logo-vigi-black2.png
   name: Estado U Católica Pei
   introTitle: "Página de tiempo de actividad y estado de los diferentes servicios web de la universidad"
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #introMessage:
   #navbar:
    # - title: Estado
     #  href: https://infraestructuragtucp.github.io/estatus/
