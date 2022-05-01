@@ -20,10 +20,10 @@ sites:
     - 401
     url: http://intranet.ucp.edu.co
     icon: https://img.icons8.com/color/96/000000/ms-share-point.png
-  - name: QRFS
   - name: Múltiples Webs
-    url: $MULTIPLESITES
+    url: $MULTIPLESITES_UCP
     icon: https://img.icons8.com/cotton/64/000000/web-apps.png
+  - name: QRFS
     url: https://qrsf.ucp.edu.co
     icon: https://img.icons8.com/color/96/000000/complaints.png
   - name: Mesa de Ayuda - HelpPeople
