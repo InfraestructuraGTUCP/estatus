@@ -7,8 +7,8 @@ sites:
     url: https://www.ucp.edu.co
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/765f9c74c7b240e032e8e6d2829d2f8be33d8eba/assets/logo-vigi-black2.png
   - name: Portal Estudiante y Docente
-    url: https://matriculas.ucp.edu.co/se
-    icon: https://img.icons8.com/color/96/000000/classroom.png
+    url: $PORTAL
+    icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/portal.png
   - name: UCP Virtual - Moodle
     url: https://www.ucpvirtual.edu.co
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/ucpvirtual.png
@@ -29,18 +29,18 @@ sites:
   - name: Mesa de Ayuda - HelpPeople
     expectedStatusCodes:
     - 401
-    url: https://mesadeayuda.ucp.edu.co
+    url: $AYUDA
     icon: https://img.icons8.com/fluency/96/000000/help.png
   - name: DNS 1
     check: "tcp-ping"
     url: w2k12r2-dns1.ucp.edu.co
     port: 53
-    icon: https://img.icons8.com/ios/100/000000/dns.png
+    icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns1.png
   - name: DNS 2
     check: "tcp-ping"
     url: w2k12r2-dns2.ucp.edu.co
     port: 53
-    icon: https://img.icons8.com/ios/100/000000/dns.png
+    icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns2.png
 assignees:
   - InfraestructuraGTUCP
 status-website:
@@ -52,9 +52,9 @@ status-website:
   name: Estado U Católica Pei
   introTitle: "Página de tiempo de actividad y estado de los diferentes servicios web de la universidad"
   #introMessage:
-  #navbar:
-   # - title: Estado
-    #  href: https://infraestructuragtucp.github.io/estatus/
+  navbar:
+    - title: Estado
+      href: https:estado.ucp.edu.co
     #- title: GitHub
      # href: https://github.com/$OWNER/$REPO
 i18n:
@@ -79,7 +79,7 @@ i18n:
   overallUptimeTitle: Estado actividad general
   averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
   averageResponseTimeTitle: Respuesta promedio
-  sevelDayResponseTime: Tiempo de respuesta durante 7 días 
+  sevelDayResponseTime: Tiempos de respuesta durante 7 días 
   responseTimeMs: Tiempo de respuesta (ms)
   up: Activo
   down: Caido
