@@ -34,13 +34,13 @@ sites:
   - name: DNS 1
     check: "tcp-ping"
     url: w2k12r2-dns1.ucp.edu.co
-    icon: https://img.icons8.com/ios/100/000000/dns.png
     port: 53
+    icon: https://img.icons8.com/ios/100/000000/dns.png
   - name: DNS 2
     check: "tcp-ping"
     url: w2k12r2-dns2.ucp.edu.co
-    icon: https://img.icons8.com/ios/100/000000/dns.png
     port: 53
+    icon: https://img.icons8.com/ios/100/000000/dns.png
 assignees:
   - InfraestructuraGTUCP
 status-website:
@@ -87,7 +87,7 @@ i18n:
   ms: ms
   loading: Cargando
   navGitHub: GitHub
-  footer: Esta página es un [recurso abierto]($REPO), desplegado por Gestión Tecnológica y desarrollado por [Upptime](https://upptime.js.org)
+  footer: Esta página es un recurso abierto, desplegado por Gestión Tecnológica y desarrollado por [Upptime](https://upptime.js.org)
   pastScheduledMaintenance: Anteriores mantenimientos programados
   scheduledMaintenance: Mantenimiento Programado
   scheduledMaintenanceSummaryStarted: Inició el $DATE durante $DURATION minutos
