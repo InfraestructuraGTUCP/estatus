@@ -62,6 +62,7 @@ i18n:
   incidentViewOnGitHub: Ver en GitHub
   incidentCommentSummary: Publicado el $DATE por $AUTHOR
   incidentBack: ← Regresar a todos los incidentes
+  pastIncidents: Incidentes anteriores
   pastIncidentsResolved: Resuelto en $MINUTES minutos, tiene $POSTS publicaciones
   liveStatus: Estado Actual
   overallUptime: "Estado general: $UPTIME"
@@ -77,6 +78,7 @@ i18n:
   loading: Cargando
   navGitHub: GitHub
   footer: Esta página es un [recurso abierto]($REPO), desplegado por Gestión Tecnológica y desarrollado por [Upptime](https://upptime.js.org)
+  pastScheduledMaintenance: Anteriores mantenimientos programados
   scheduledMaintenance: Mantenimiento Programado
   scheduledMaintenanceSummaryStarted: Inició el $DATE durante $DURATION minutos
   scheduledMaintenanceSummaryStarts: Inicia el $DATE durante $DURATION minutos
