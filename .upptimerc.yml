@@ -68,10 +68,10 @@ i18n:
   incidentOngoing: En curso
   incidentOpenedAt: Abierto el
   incidentClosedAt: Cerrado el
-  incidentSubscribe: Subscribirse a actualizaciones
-  incidentViewOnGitHub: Ver en GitHub
+  incidentSubscribe: " "
+  incidentViewOnGitHub: " "
   incidentCommentSummary: Publicado el $DATE por $AUTHOR
-  incidentBack: ← Regresar a todos los incidentes
+  incidentBack: ← Regresar 
   pastIncidents: Incidentes anteriores
   pastIncidentsResolved: Resuelto en $MINUTES minutos, tiene $POSTS publicaciones
   liveStatus: Estado actual
@@ -93,8 +93,8 @@ i18n:
   scheduledMaintenanceSummaryStarted: Inició el $DATE con duración estimada de $DURATION minutos
   scheduledMaintenanceSummaryStarts: Programado para el $DATE y durará $DURATION minutos
   startedAt: Comenzó el
-  startsAt: "Programado el:"
-  duration: "Duración aproximada:"
+  startsAt: "Programado para el:"
+  duration: "Duración aproximada de:"
   durationMin: $DURATION minutos
   incidentCompleted: Terminado
   incidentScheduled: Programado
