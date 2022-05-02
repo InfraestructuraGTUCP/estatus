@@ -93,8 +93,8 @@ i18n:
   scheduledMaintenanceSummaryStarted: Inició el $DATE con duración estimada de $DURATION minutos
   scheduledMaintenanceSummaryStarts: Programado para el $DATE y durará $DURATION minutos
   startedAt: Comenzó el
-  startsAt: Programado el:
-  duration: Duración aproximada:
+  startsAt: "Programado el:"
+  duration: "Duración aproximada:"
   durationMin: $DURATION minutos
   incidentCompleted: Terminado
   incidentScheduled: Programado
