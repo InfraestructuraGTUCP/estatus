@@ -6,38 +6,54 @@ sites:
   - name: Universidad Católica de Pereira
     url: https://www.ucp.edu.co
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/765f9c74c7b240e032e8e6d2829d2f8be33d8eba/assets/logo-vigi-black2.png
+    
   - name: Portal Estudiante y Docente
     url: $PORTAL
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/portal.png
+    
   - name: UCP Virtual - Moodle
     url: https://www.ucpvirtual.edu.co
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/ucpvirtual.png
+    
   - name: Biblioteca CDCH
     url: https://biblioteca.ucp.edu.co
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/bcdch.png
+    
   - name: Intranet
-    expectedStatusCodes:
-    - 401
     url: http://intranet.ucp.edu.co
     icon: https://img.icons8.com/color/96/000000/ms-share-point.png
+    expectedStatusCodes:
+    - 401
+    
   - name: Múltiples Webs
     url: $MULTIPLESITES_UCP
     icon: https://img.icons8.com/nolan/96/squared-menu.png
+    
   - name: QRFS
     url: https://qrsf.ucp.edu.co
     icon: https://img.icons8.com/color/96/000000/complaints.png
+    
   - name: Mesa de Ayuda - HelpPeople
-    expectedStatusCodes:
-    - 401
     url: $AYUDA
     icon: https://img.icons8.com/fluency/96/000000/help.png
+    expectedStatusCodes:
+    - 401
+    
   - name: DNS 1
     check: "tcp-ping"
     url: w2k12r2-dns1.ucp.edu.co
-    port: 53
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns1.png
+    port: 53
+    
+  - name: DNS 2
+    check: "tcp-ping"
+    url: w2k12r2-dns2.ucp.edu.co
+    icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns2.png
+    port: 53
+    
 assignees:
   - InfraestructuraGTUCP
+  
 status-website:
   cname: estado.ucp.edu.co
   theme: night
@@ -52,6 +68,7 @@ status-website:
     #  href: https://estado.ucp.edu.co
     #- title: GitHub
      # href: https://github.com/$OWNER/$REPO
+     
 i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
@@ -93,3 +110,4 @@ i18n:
   durationMin: $DURATION minutos
   incidentCompleted: Finalizado
   incidentScheduled: Programado
+  #End
