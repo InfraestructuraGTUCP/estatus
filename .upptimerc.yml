@@ -78,8 +78,8 @@ i18n:
   incidentDetails: Detalles de incidente
   incidentFixed: Reparado
   incidentOngoing: En curso
-  incidentOpenedAt: "Abierto el:"
-  incidentClosedAt: "Cerrado el:"
+  incidentOpenedAt: "Ocurrido el:"
+  incidentClosedAt: "Finalizado el:"
   incidentSubscribe: " "
   incidentViewOnGitHub: " "
   incidentCommentSummary: Publicado el $DATE por $AUTHOR
