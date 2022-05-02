@@ -70,13 +70,13 @@ status-website:
      # href: https://github.com/$OWNER/$REPO
      
 i18n:
-  activeIncidents: Incidentes activos
+  activeIncidents: **Incidentes activos**
   allSystemsOperational: Todos los sistemas están operativos
   incidentReport: " #$NUMBER Ver detalles →"
-  activeIncidentSummary: Abierto a las $DATE con $POSTS publicaciones
+  activeIncidentSummary: Sucedido el $DATE con $POSTS publicaciones
   incidentTitle: Detalles de incidente N° $NUMBER
   incidentDetails: Detalles de incidente
-  incidentFixed: Reparado
+  incidentFixed: Solucionado
   incidentOngoing: En curso
   incidentOpenedAt: "Ocurrido el:"
   incidentClosedAt: "Finalizado el:"
