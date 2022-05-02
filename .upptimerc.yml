@@ -36,11 +36,6 @@ sites:
     url: w2k12r2-dns1.ucp.edu.co
     port: 53
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns1.png
-  - name: DNS 2
-    check: "tcp-ping"
-    url: 201.236.232.91
-    port: 53
-    icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns2.png
 assignees:
   - InfraestructuraGTUCP
 status-website:
