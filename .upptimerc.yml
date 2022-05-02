@@ -60,18 +60,18 @@ status-website:
 i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
-  incidentReport: "Incidente n° $NUMBER Ver reporte →"
+  incidentReport: " #$NUMBER Ver detalles →"
   activeIncidentSummary: Abierto a las $DATE con $POSTS publicaciones
-  incidentTitle: Detalles de incidente n° $NUMBER
+  incidentTitle: Detalles de incidente N° $NUMBER
   incidentDetails: Detalles de incidente
   incidentFixed: Reparado
   incidentOngoing: En curso
-  incidentOpenedAt: Abierto el
-  incidentClosedAt: Cerrado el
+  incidentOpenedAt: "Abierto el:"
+  incidentClosedAt: "Cerrado el:"
   incidentSubscribe: " "
   incidentViewOnGitHub: " "
   incidentCommentSummary: Publicado el $DATE por $AUTHOR
-  incidentBack: ← Regresar 
+  incidentBack: ← Volver
   pastIncidents: Incidentes anteriores
   pastIncidentsResolved: Resuelto en $MINUTES minutos, tiene $POSTS publicaciones
   liveStatus: Estado actual
@@ -91,10 +91,10 @@ i18n:
   pastScheduledMaintenance: Anteriores mantenimientos programados
   scheduledMaintenance: Mantenimiento Programado
   scheduledMaintenanceSummaryStarted: Inició el $DATE con duración estimada de $DURATION minutos
-  scheduledMaintenanceSummaryStarts: Programado para el $DATE y durará $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Programado para el *$DATE* y durará $DURATION minutos
   startedAt: Comenzó el
   startsAt: "Programado para el:"
-  duration: "Duración aproximada de:"
+  duration: "Duración estimada de:"
   durationMin: $DURATION minutos
-  incidentCompleted: Terminado
+  incidentCompleted: Finalizado
   incidentScheduled: Programado
