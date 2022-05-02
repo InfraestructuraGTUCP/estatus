@@ -37,7 +37,7 @@ sites:
     url: $AYUDA
     icon: https://img.icons8.com/fluency/96/000000/help.png
     expectedStatusCodes:
-    - 401
+    - 200
     
   - name: DNS 1
     check: "tcp-ping"
@@ -90,7 +90,7 @@ i18n:
   overallUptime: "Estado general: $UPTIME"
   overallUptimeTitle: Estado actividad general
   averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
-  averageResponseTimeTitle: Respuesta promedio
+  averageResponseTimeTitle: Tiempo de respuesta promedio
   sevelDayResponseTime: Tiempos de respuesta durante 7 días 
   responseTimeMs: Tiempo de respuesta (ms)
   up: Activo
