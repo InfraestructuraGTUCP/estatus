@@ -52,9 +52,9 @@ status-website:
   name: Estado U Católica Pei
   introTitle: "#### Página de tiempo de actividad y estado de diferentes servicios web de la universidad"
   #introMessage:
-  navbar:
-    - title: Estado
-      href: https://estado.ucp.edu.co
+  #navbar:
+   # - title: Estado
+    #  href: https://estado.ucp.edu.co
     #- title: GitHub
      # href: https://github.com/$OWNER/$REPO
 i18n:
@@ -90,9 +90,9 @@ i18n:
   footer: Esta página es un recurso abierto, desplegado por Gestión Tecnológica y desarrollado por [Upptime](https://upptime.js.org)
   pastScheduledMaintenance: Anteriores mantenimientos programados
   scheduledMaintenance: Mantenimiento Programado
-  scheduledMaintenanceSummaryStarted: Inició el $DATE con duración estimada de $DURATION minutos
-  scheduledMaintenanceSummaryStarts: Programado para el *$DATE* y durará $DURATION minutos
-  startedAt: Comenzó el
+  scheduledMaintenanceSummaryStarted: **Mantenimiento en curso** con duración estimada de $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Programado para el **$DATE** y durará $DURATION minutos
+  startedAt: "Comenzó el:"
   startsAt: "Programado para el:"
   duration: "Duración estimada de:"
   durationMin: $DURATION minutos
