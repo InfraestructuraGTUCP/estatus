@@ -37,7 +37,7 @@ sites:
     url: $AYUDA
     icon: https://img.icons8.com/fluency/96/000000/help.png
     expectedStatusCodes:
-    - 200
+    - 401
     
   - name: DNS 1
     check: "tcp-ping"
