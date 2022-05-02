@@ -90,7 +90,7 @@ i18n:
   footer: Esta página es un recurso abierto, desplegado por Gestión Tecnológica y desarrollado por [Upptime](https://upptime.js.org)
   pastScheduledMaintenance: Anteriores mantenimientos programados
   scheduledMaintenance: Mantenimiento Programado
-  scheduledMaintenanceSummaryStarted: **Mantenimiento en curso** con duración estimada de $DURATION minutos
+  scheduledMaintenanceSummaryStarted: "**Mantenimiento en curso** con duración estimada de $DURATION minutos"
   scheduledMaintenanceSummaryStarts: Programado para el **$DATE** y durará $DURATION minutos
   startedAt: "Comenzó el:"
   startsAt: "Programado para el:"
