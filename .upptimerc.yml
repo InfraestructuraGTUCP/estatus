@@ -50,7 +50,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/da859f83229278e355d72f522317f6c52032c391/assets/logo-vigi-black.png
   favicon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/765f9c74c7b240e032e8e6d2829d2f8be33d8eba/assets/logo-vigi-black2.png
   name: Estado U Católica Pei
-  introTitle: "## Página de tiempo de actividad y estado de los diferentes servicios web de la universidad"
+  introTitle: "#### Página de tiempo de actividad y estado de los diferentes servicios web de la universidad"
   #introMessage:
   navbar:
     - title: Estado
@@ -89,9 +89,9 @@ i18n:
   navGitHub: GitHub
   footer: Esta página es un recurso abierto, desplegado por Gestión Tecnológica y desarrollado por [Upptime](https://upptime.js.org)
   pastScheduledMaintenance: Anteriores mantenimientos programados
-  scheduledMaintenance: Mantenimiento Programado
-  scheduledMaintenanceSummaryStarted: Inició el $DATE durante $DURATION minutos
-  scheduledMaintenanceSummaryStarts: Inicia el $DATE durante $DURATION minutos
+  scheduledMaintenance: Mantenimiento en curso
+  scheduledMaintenanceSummaryStarted: Inició el $DATE con duración de $DURATION minutos aproximadamente
+  scheduledMaintenanceSummaryStarts: Inicia el $DATE y durará $DURATION minutos
   startedAt: Comenzó el
   startsAt: inicia el
   duration: Duración
