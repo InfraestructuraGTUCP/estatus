@@ -19,6 +19,10 @@ sites:
     url: https://biblioteca.ucp.edu.co
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/bcdch.png
     
+  - name: Repositorio
+    url: https://www.repositorio.ucp.edu.co
+    icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/bcdch.png
+    
   - name: Intranet
     url: http://intranet.ucp.edu.co
     icon: https://img.icons8.com/color/96/000000/ms-share-point.png
