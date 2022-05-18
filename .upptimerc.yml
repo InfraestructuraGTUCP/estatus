@@ -48,11 +48,7 @@ sites:
     url: w2k12r2-dns1.ucp.edu.co
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns1.png
     port: 53
-    
-  - name: DNS 2
-    url: w2k12r2-dns2.ucp.edu.co
-    icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns2.png
-    
+        
 assignees:
   - InfraestructuraGTUCP
   
