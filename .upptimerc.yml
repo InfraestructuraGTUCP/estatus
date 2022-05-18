@@ -51,7 +51,7 @@ sites:
     
   - name: DNS 2
     check: "tcp-ping"
-    url: w2k12r2-dns2.ucp.edu.co
+    url: $DNS2
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns2.png
     port: 53
     
