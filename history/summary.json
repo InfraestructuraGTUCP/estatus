@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4909,
-    "timeDay": 5647,
-    "timeWeek": 5565,
-    "timeMonth": 4909,
-    "timeYear": 4909,
+    "time": 4948,
+    "timeDay": 6059,
+    "timeWeek": 5698,
+    "timeMonth": 4948,
+    "timeYear": 4948,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3496,
-    "timeDay": 2910,
-    "timeWeek": 2984,
-    "timeMonth": 3496,
-    "timeYear": 3496,
+    "time": 3518,
+    "timeDay": 3394,
+    "timeWeek": 3128,
+    "timeMonth": 3518,
+    "timeYear": 3518,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 389,
-    "timeWeek": 803,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "time": 472,
+    "timeDay": 397,
+    "timeWeek": 773,
+    "timeMonth": 472,
+    "timeYear": 472,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6138,
-    "timeDay": 6208,
-    "timeWeek": 5460,
-    "timeMonth": 6138,
-    "timeYear": 6138,
+    "time": 6154,
+    "timeDay": 6431,
+    "timeWeek": 5586,
+    "timeMonth": 6154,
+    "timeYear": 6154,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 1122,
-    "timeDay": 1963,
-    "timeWeek": 1122,
-    "timeMonth": 1122,
-    "timeYear": 1122,
+    "time": 1035,
+    "timeDay": 1557,
+    "timeWeek": 1035,
+    "timeMonth": 1035,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2022-05-13": 7
     }
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.04%",
-    "time": 2443,
-    "timeDay": 2785,
-    "timeWeek": 2080,
-    "timeMonth": 2443,
-    "timeYear": 2443,
+    "time": 2484,
+    "timeDay": 3210,
+    "timeWeek": 2265,
+    "timeMonth": 2484,
+    "timeYear": 2484,
     "dailyMinutesDown": {
       "2022-04-29": 262
     }
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3669,
-    "timeDay": 3919,
-    "timeWeek": 3649,
-    "timeMonth": 3669,
-    "timeYear": 3669,
+    "time": 3675,
+    "timeDay": 3918,
+    "timeWeek": 3669,
+    "timeMonth": 3675,
+    "timeYear": 3675,
     "dailyMinutesDown": {}
   },
   {
@@ -140,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3491,
-    "timeDay": 2358,
-    "timeWeek": 3065,
-    "timeMonth": 3491,
-    "timeYear": 3491,
+    "time": 3519,
+    "timeDay": 3070,
+    "timeWeek": 3229,
+    "timeMonth": 3519,
+    "timeYear": 3519,
     "dailyMinutesDown": {}
   },
   {
@@ -158,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.68%",
-    "time": 3515,
-    "timeDay": 3395,
-    "timeWeek": 3641,
-    "timeMonth": 3515,
-    "timeYear": 3515,
+    "time": 3468,
+    "timeDay": 2867,
+    "timeWeek": 3460,
+    "timeMonth": 3468,
+    "timeYear": 3468,
     "dailyMinutesDown": {
       "2022-05-02": 31,
       "2022-04-29": 54
@@ -180,30 +180,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 597,
-    "timeDay": 649,
-    "timeWeek": 684,
+    "timeDay": 636,
+    "timeWeek": 678,
     "timeMonth": 597,
     "timeYear": 597,
     "dailyMinutesDown": {}
   },
   {
     "name": "DNS 2",
-    "url": "$DNS2",
+    "url": "w2k12r2-dns2.ucp.edu.co",
     "icon": "https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns2.png",
     "slug": "dns-2",
     "status": "down",
-    "uptime": "97.56%",
-    "uptimeDay": "59.87%",
-    "uptimeWeek": "94.27%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.56%",
+    "uptime": "97.54%",
+    "uptimeDay": "59.49%",
+    "uptimeWeek": "94.21%",
+    "uptimeMonth": "97.54%",
+    "uptimeYear": "97.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-18": 578
+      "2022-05-18": 583
     }
   }
 ]
