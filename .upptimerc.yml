@@ -50,10 +50,8 @@ sites:
     port: 53
     
   - name: DNS 2
-    check: "tcp-ping"
     url: $DNS2
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns2.png
-    port: 53
     
 assignees:
   - InfraestructuraGTUCP
