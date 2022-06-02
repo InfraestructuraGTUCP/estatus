@@ -13,7 +13,7 @@
     "time": 5110,
     "timeDay": 5691,
     "timeWeek": 6037,
-    "timeMonth": 5333,
+    "timeMonth": 5731,
     "timeYear": 5110,
     "dailyMinutesDown": {
       "2022-05-20": 31
@@ -33,7 +33,7 @@
     "time": 3563,
     "timeDay": 1555,
     "timeWeek": 4511,
-    "timeMonth": 3486,
+    "timeMonth": 3398,
     "timeYear": 3563,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 520,
     "timeDay": 419,
     "timeWeek": 886,
-    "timeMonth": 588,
+    "timeMonth": 659,
     "timeYear": 520,
     "dailyMinutesDown": {}
   },
@@ -69,7 +69,7 @@
     "time": 6160,
     "timeDay": 5117,
     "timeWeek": 7095,
-    "timeMonth": 5930,
+    "timeMonth": 5889,
     "timeYear": 6160,
     "dailyMinutesDown": {}
   },
@@ -79,11 +79,11 @@
     "icon": "https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/bcdch.png",
     "slug": "repositorio",
     "status": "up",
-    "uptime": "86.00%",
+    "uptime": "86.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.00%",
-    "uptimeYear": "86.00%",
+    "uptimeMonth": "86.40%",
+    "uptimeYear": "86.40%",
     "time": 2268,
     "timeDay": 3034,
     "timeWeek": 3768,
@@ -103,15 +103,15 @@
     "icon": "https://img.icons8.com/color/96/000000/ms-share-point.png",
     "slug": "intranet",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 2554,
     "timeDay": 4858,
     "timeWeek": 3719,
-    "timeMonth": 2492,
+    "timeMonth": 2575,
     "timeYear": 2554,
     "dailyMinutesDown": {
       "2022-04-29": 262
@@ -131,7 +131,7 @@
     "time": 3452,
     "timeDay": 3740,
     "timeWeek": 4155,
-    "timeMonth": 3418,
+    "timeMonth": 3308,
     "timeYear": 3452,
     "dailyMinutesDown": {}
   },
@@ -140,18 +140,20 @@
     "url": "https://qrsf.ucp.edu.co",
     "icon": "https://img.icons8.com/color/96/000000/complaints.png",
     "slug": "qrfs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3504,
     "timeDay": 1160,
     "timeWeek": 3088,
-    "timeMonth": 3398,
+    "timeMonth": 3535,
     "timeYear": 3504,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "Mesa de Ayuda - HelpPeople",
@@ -162,12 +164,12 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 3548,
     "timeDay": 1315,
     "timeWeek": 3890,
-    "timeMonth": 3502,
+    "timeMonth": 3792,
     "timeYear": 3548,
     "dailyMinutesDown": {
       "2022-05-02": 31,
@@ -188,7 +190,7 @@
     "time": 562,
     "timeDay": 1161,
     "timeWeek": 659,
-    "timeMonth": 557,
+    "timeMonth": 567,
     "timeYear": 562,
     "dailyMinutesDown": {}
   }
