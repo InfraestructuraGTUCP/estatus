@@ -66,10 +66,10 @@
     "url": "https://biblioteca.ucp.edu.co",
     "icon": "https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/bcdch.png",
     "slug": "biblioteca-cdch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.96%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.89%",
     "time": 6064,
@@ -78,6 +78,7 @@
     "timeMonth": 5999,
     "timeYear": 6064,
     "dailyMinutesDown": {
+      "2022-07-19": 0,
       "2022-07-14": 88,
       "2022-07-12": 16,
       "2022-06-26": 25
