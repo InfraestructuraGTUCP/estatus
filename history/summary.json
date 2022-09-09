@@ -156,19 +156,19 @@
     "url": "$AYUDA",
     "icon": "https://img.icons8.com/fluency/96/000000/help.png",
     "slug": "mesa-de-ayuda-help-people",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2877,
-    "timeDay": 1132,
-    "timeWeek": 1284,
-    "timeMonth": 1444,
-    "timeYear": 2877,
+    "time": 2867,
+    "timeDay": 1191,
+    "timeWeek": 1280,
+    "timeMonth": 1438,
+    "timeYear": 2867,
     "dailyMinutesDown": {
-      "2022-09-09": 0
+      "2022-09-09": 9
     }
   },
   {
