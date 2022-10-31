@@ -28,7 +28,10 @@ sites:
     icon: https://img.icons8.com/color/96/000000/ms-share-point.png
     expectedStatusCodes:
     - 401
-    
+  - name: Booked
+    url: $BOOKED
+    icon: https://img.icons8.com/nolan/96/squared-menu.png
+      
   - name: Múltiples Webs
     url: $MULTIPLESITES_UCP
     icon: https://img.icons8.com/nolan/96/squared-menu.png
