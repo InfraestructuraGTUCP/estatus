@@ -82,7 +82,7 @@ i18n:
   incidentReport: " #$NUMBER Ver detalles →"
   activeIncidentSummary: Sucedido el $DATE con $POSTS publicaciones
   incidentTitle: Detalles de incidente N° $NUMBER
-  incidentDetails: Detalles de incidente
+  incidentDetails: Detalles del incidente
   incidentFixed: Solucionado
   incidentOngoing: En curso
   incidentOpenedAt: "Ocurrido el:"
