@@ -4,9 +4,9 @@
     "url": "https://www.ucp.edu.co",
     "icon": "https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/765f9c74c7b240e032e8e6d2829d2f8be33d8eba/assets/logo-vigi-black2.png",
     "slug": "universidad-catolica-de-pereira",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 2628,
     "timeYear": 3932,
     "dailyMinutesDown": {
+      "2022-11-20": 0,
       "2022-09-30": 28
     }
   },
@@ -87,11 +88,11 @@
     "icon": "https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/bcdch.png",
     "slug": "repositorio",
     "status": "up",
-    "uptime": "97.89%",
+    "uptime": "97.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.96%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 1205,
     "timeDay": 667,
     "timeWeek": 296,
