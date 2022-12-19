@@ -12,7 +12,7 @@
     "uptimeYear": "99.93%",
     "time": 3838,
     "timeDay": 4148,
-    "timeWeek": 3278,
+    "timeWeek": 3457,
     "timeMonth": 2958,
     "timeYear": 3838,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "99.99%",
     "time": 2275,
     "timeDay": 1414,
-    "timeWeek": 1285,
+    "timeWeek": 1222,
     "timeMonth": 1180,
     "timeYear": 2275,
     "dailyMinutesDown": {
@@ -45,19 +45,19 @@
     "url": "https://www.ucpvirtual.edu.co",
     "icon": "https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/ucpvirtual.png",
     "slug": "ucp-virtual-moodle",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.84%",
     "time": 625,
-    "timeDay": 1050,
-    "timeWeek": 703,
-    "timeMonth": 629,
+    "timeDay": 950,
+    "timeWeek": 713,
+    "timeMonth": 630,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2022-12-19": 0,
+      "2022-12-19": 36,
       "2022-10-14": 319,
       "2022-09-07": 187
     }
@@ -75,8 +75,8 @@
     "uptimeYear": "99.96%",
     "time": 4632,
     "timeDay": 3082,
-    "timeWeek": 3208,
-    "timeMonth": 3394,
+    "timeWeek": 3200,
+    "timeMonth": 3350,
     "timeYear": 4632,
     "dailyMinutesDown": {
       "2022-11-01": 23,
@@ -96,8 +96,8 @@
     "uptimeYear": "97.13%",
     "time": 1102,
     "timeDay": 371,
-    "timeWeek": 326,
-    "timeMonth": 409,
+    "timeWeek": 325,
+    "timeMonth": 400,
     "timeYear": 1102,
     "dailyMinutesDown": {
       "2022-12-05": 940,
@@ -127,8 +127,8 @@
     "uptimeYear": "99.99%",
     "time": 1606,
     "timeDay": 589,
-    "timeWeek": 633,
-    "timeMonth": 728,
+    "timeWeek": 626,
+    "timeMonth": 721,
     "timeYear": 1606,
     "dailyMinutesDown": {
       "2022-11-01": 22
@@ -147,8 +147,8 @@
     "uptimeYear": "100.00%",
     "time": 2041,
     "timeDay": 1614,
-    "timeWeek": 1799,
-    "timeMonth": 1877,
+    "timeWeek": 1777,
+    "timeMonth": 1866,
     "timeYear": 2041,
     "dailyMinutesDown": {}
   },
@@ -165,8 +165,8 @@
     "uptimeYear": "99.82%",
     "time": 1800,
     "timeDay": 259,
-    "timeWeek": 276,
-    "timeMonth": 287,
+    "timeWeek": 273,
+    "timeMonth": 286,
     "timeYear": 1800,
     "dailyMinutesDown": {
       "2022-09-24": 611
@@ -186,7 +186,7 @@
     "time": 2197,
     "timeDay": 1142,
     "timeWeek": 1025,
-    "timeMonth": 1096,
+    "timeMonth": 1087,
     "timeYear": 2197,
     "dailyMinutesDown": {}
   },
@@ -203,8 +203,8 @@
     "uptimeYear": "99.99%",
     "time": 2271,
     "timeDay": 1107,
-    "timeWeek": 1185,
-    "timeMonth": 1279,
+    "timeWeek": 1173,
+    "timeMonth": 1269,
     "timeYear": 2271,
     "dailyMinutesDown": {
       "2022-11-01": 20
@@ -223,8 +223,8 @@
     "uptimeYear": "99.96%",
     "time": 473,
     "timeDay": 332,
-    "timeWeek": 351,
-    "timeMonth": 399,
+    "timeWeek": 346,
+    "timeMonth": 394,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2022-07-14": 121
@@ -243,8 +243,8 @@
     "uptimeYear": "99.50%",
     "time": 233,
     "timeDay": 160,
-    "timeWeek": 153,
-    "timeMonth": 208,
+    "timeWeek": 148,
+    "timeMonth": 204,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2022-11-17": 203,
