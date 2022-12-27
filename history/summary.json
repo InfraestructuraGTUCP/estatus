@@ -25,9 +25,9 @@
     "url": "$PORTAL",
     "icon": "https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/portal.png",
     "slug": "portal-estudiante-y-docente",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -37,6 +37,7 @@
     "timeMonth": 1079,
     "timeYear": 2244,
     "dailyMinutesDown": {
+      "2022-12-27": 0,
       "2022-11-01": 23
     }
   },
@@ -90,11 +91,11 @@
     "icon": "https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/bcdch.png",
     "slug": "repositorio",
     "status": "up",
-    "uptime": "97.22%",
+    "uptime": "97.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.43%",
-    "uptimeYear": "97.22%",
+    "uptimeYear": "97.23%",
     "time": 1081,
     "timeDay": 708,
     "timeWeek": 361,
