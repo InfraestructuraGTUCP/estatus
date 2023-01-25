@@ -122,11 +122,11 @@
     "url": "http://intranet.ucp.edu.co",
     "icon": "https://img.icons8.com/color/96/000000/ms-share-point.png",
     "slug": "intranet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1500,
     "timeDay": 583,
@@ -134,6 +134,7 @@
     "timeMonth": 688,
     "timeYear": 1500,
     "dailyMinutesDown": {
+      "2023-01-25": 4,
       "2022-11-01": 22
     }
   },
@@ -142,11 +143,11 @@
     "url": "$BOOKED",
     "icon": "https://img.icons8.com/nolan/96/squared-menu.png",
     "slug": "booked",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1928,
     "timeDay": 1698,
@@ -154,6 +155,7 @@
     "timeMonth": 1762,
     "timeYear": 1928,
     "dailyMinutesDown": {
+      "2023-01-25": 3,
       "2023-01-20": 19
     }
   },
@@ -162,11 +164,11 @@
     "url": "$MULTIPLESITES_UCP",
     "icon": "https://img.icons8.com/nolan/96/squared-menu.png",
     "slug": "multiples-webs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.84%",
     "time": 1615,
     "timeDay": 256,
@@ -174,6 +176,7 @@
     "timeMonth": 276,
     "timeYear": 1615,
     "dailyMinutesDown": {
+      "2023-01-25": 3,
       "2023-01-20": 17,
       "2022-09-24": 611
     }
@@ -183,28 +186,30 @@
     "url": "https://qrsf.ucp.edu.co",
     "icon": "https://img.icons8.com/color/96/000000/complaints.png",
     "slug": "qrfs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2070,
     "timeDay": 904,
     "timeWeek": 1095,
     "timeMonth": 1052,
     "timeYear": 2070,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "Mesa de Ayuda - HelpPeople",
     "url": "$AYUDA",
     "icon": "https://img.icons8.com/fluency/96/000000/help.png",
     "slug": "mesa-de-ayuda-help-people",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2151,
@@ -213,6 +218,7 @@
     "timeMonth": 1232,
     "timeYear": 2151,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2022-11-01": 20
     }
   },
@@ -221,9 +227,9 @@
     "url": "w2k12r2-dns1.ucp.edu.co",
     "icon": "https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns1.png",
     "slug": "dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -233,6 +239,7 @@
     "timeMonth": 368,
     "timeYear": 460,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-07-14": 121
     }
   },
