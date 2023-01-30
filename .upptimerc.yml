@@ -63,7 +63,7 @@ assignees:
   
 status-website:
   cname: estado.ucp.edu.co
-  theme: ocean
+  theme: night
   #baseUrl: /estatus
   logoUrl: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/da859f83229278e355d72f522317f6c52032c391/assets/logo-vigi-black.png
   favicon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/765f9c74c7b240e032e8e6d2829d2f8be33d8eba/assets/logo-vigi-black2.png
