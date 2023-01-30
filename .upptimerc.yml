@@ -36,7 +36,7 @@ sites:
     url: $MULTIPLESITES_UCP
     icon: https://img.icons8.com/nolan/96/squared-menu.png
     
-  - name: QRFS
+  - name: QRSF
     url: https://qrsf.ucp.edu.co
     icon: https://img.icons8.com/color/96/000000/complaints.png
     
