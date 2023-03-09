@@ -21,7 +21,8 @@ sites:
     
   - name: Repositorio
     url: https://repositorio.ucp.edu.co
-    icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/bcdch.png   
+    icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/bcdch.png
+    __dangerous__disable_verify_peer: true
     
   - name: Intranet
     url: http://intranet.ucp.edu.co
