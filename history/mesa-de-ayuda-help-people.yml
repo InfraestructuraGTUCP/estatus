@@ -1,7 +1,7 @@
 url: $AYUDA
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-24T23:10:17.438Z
+status: up
+code: 401
+responseTime: 604
+lastUpdated: 2024-03-25T19:10:24.707Z
 startTime: 2022-04-29T20:18:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
