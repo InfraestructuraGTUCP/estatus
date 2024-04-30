@@ -1,7 +1,7 @@
 url: https://qrsf.ucp.edu.co
-status: up
-code: 200
-responseTime: 385
-lastUpdated: 2024-04-29T23:06:27.474Z
+status: down
+code: 500
+responseTime: 3387
+lastUpdated: 2024-04-30T14:59:20.149Z
 startTime: 2023-01-30T21:55:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
