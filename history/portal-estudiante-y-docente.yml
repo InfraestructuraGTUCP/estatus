@@ -1,7 +1,7 @@
 url: $PORTAL
-status: down
-code: 404
-responseTime: 636
-lastUpdated: 2024-05-09T01:40:59.106Z
+status: up
+code: 200
+responseTime: 687
+lastUpdated: 2024-05-09T04:40:21.993Z
 startTime: 2022-04-29T16:49:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
