@@ -1,7 +1,7 @@
 url: http://intranet.ucp.edu.co
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-09T19:04:23.217Z
+status: up
+code: 401
+responseTime: 675
+lastUpdated: 2024-06-09T19:57:29.134Z
 startTime: 2022-04-29T16:50:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
