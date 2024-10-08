@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
-    "time": 1690,
-    "timeDay": 1989,
-    "timeWeek": 1019,
-    "timeMonth": 1173,
+    "time": 1689,
+    "timeDay": 2201,
+    "timeWeek": 1226,
+    "timeMonth": 1225,
     "timeYear": 1604,
     "dailyMinutesDown": {
       "2024-08-22": 23,
@@ -43,11 +43,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 1114,
-    "timeDay": 1540,
-    "timeWeek": 742,
-    "timeMonth": 806,
-    "timeYear": 1083,
+    "time": 1116,
+    "timeDay": 1878,
+    "timeWeek": 943,
+    "timeMonth": 852,
+    "timeYear": 1084,
     "dailyMinutesDown": {
       "2024-08-23": 59,
       "2024-08-22": 20,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 752,
-    "timeDay": 496,
-    "timeWeek": 707,
-    "timeMonth": 631,
-    "timeYear": 748,
+    "time": 753,
+    "timeDay": 1090,
+    "timeWeek": 789,
+    "timeMonth": 653,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2024-06-28": 21,
       "2024-06-08": 88,
@@ -97,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 3367,
-    "timeDay": 3715,
-    "timeWeek": 2567,
-    "timeMonth": 2842,
-    "timeYear": 3162,
+    "time": 3369,
+    "timeDay": 4214,
+    "timeWeek": 2791,
+    "timeMonth": 2894,
+    "timeYear": 3164,
     "dailyMinutesDown": {
       "2024-08-23": 52,
       "2024-08-22": 64,
@@ -121,16 +121,16 @@
     "icon": "https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/bcdch.png",
     "slug": "repositorio",
     "status": "up",
-    "uptime": "97.21%",
+    "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.89%",
     "time": 1045,
-    "timeDay": 471,
-    "timeWeek": 448,
-    "timeMonth": 703,
-    "timeYear": 1233,
+    "timeDay": 888,
+    "timeWeek": 533,
+    "timeMonth": 723,
+    "timeYear": 1235,
     "dailyMinutesDown": {
       "2024-04-05": 971,
       "2024-04-04": 85,
@@ -174,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.67%",
-    "time": 891,
-    "timeDay": 1005,
-    "timeWeek": 605,
-    "timeMonth": 689,
-    "timeYear": 922,
+    "time": 892,
+    "timeDay": 1222,
+    "timeWeek": 706,
+    "timeMonth": 714,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2024-09-14": 20,
       "2024-06-25": 163,
@@ -212,8 +212,7 @@
       "2024-01-10": 23,
       "2023-12-19": 698,
       "2023-12-08": 126,
-      "2023-12-07": 332,
-      "2023-10-09": 111
+      "2023-12-07": 332
     }
   },
   {
@@ -222,15 +221,15 @@
     "icon": "https://img.icons8.com/nolan/96/squared-menu.png",
     "slug": "booked",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.47%",
-    "time": 1349,
-    "timeDay": 751,
-    "timeWeek": 745,
-    "timeMonth": 875,
+    "time": 1348,
+    "timeDay": 1663,
+    "timeWeek": 886,
+    "timeMonth": 910,
     "timeYear": 1212,
     "dailyMinutesDown": {
       "2024-08-23": 168,
@@ -243,8 +242,7 @@
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
-      "2023-12-07": 331,
-      "2023-10-09": 101
+      "2023-12-07": 331
     }
   },
   {
@@ -259,9 +257,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.48%",
     "time": 235,
-    "timeDay": 85,
-    "timeWeek": 103,
-    "timeMonth": 123,
+    "timeDay": 123,
+    "timeWeek": 106,
+    "timeMonth": 125,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2024-08-23": 164,
@@ -274,8 +272,7 @@
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
-      "2023-12-07": 331,
-      "2023-10-09": 100
+      "2023-12-07": 331
     }
   },
   {
@@ -289,10 +286,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.94%",
-    "time": 1522,
-    "timeDay": 546,
-    "timeWeek": 484,
-    "timeMonth": 531,
+    "time": 1523,
+    "timeDay": 1296,
+    "timeWeek": 612,
+    "timeMonth": 562,
     "timeYear": 1658,
     "dailyMinutesDown": {
       "2024-08-23": 176,
@@ -330,10 +327,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.16%",
     "time": 1251,
-    "timeDay": 1274,
-    "timeWeek": 763,
-    "timeMonth": 877,
-    "timeYear": 1198,
+    "timeDay": 1554,
+    "timeWeek": 892,
+    "timeMonth": 909,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2024-09-14": 20,
       "2024-06-25": 162,
@@ -373,8 +370,7 @@
       "2023-10-21": 1376,
       "2023-10-12": 1296,
       "2023-10-11": 1440,
-      "2023-10-10": 1440,
-      "2023-10-09": 325
+      "2023-10-10": 1440
     }
   },
   {
@@ -389,9 +385,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.26%",
     "time": 283,
-    "timeDay": 244,
-    "timeWeek": 146,
-    "timeMonth": 178,
+    "timeDay": 303,
+    "timeWeek": 172,
+    "timeMonth": 184,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2024-09-14": 18,
@@ -419,8 +415,7 @@
       "2023-12-07": 239,
       "2023-10-12": 1296,
       "2023-10-11": 1440,
-      "2023-10-10": 1440,
-      "2023-10-09": 324
+      "2023-10-10": 1440
     }
   },
   {
@@ -435,9 +430,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.51%",
     "time": 148,
-    "timeDay": 81,
-    "timeWeek": 89,
-    "timeMonth": 92,
+    "timeDay": 100,
+    "timeWeek": 93,
+    "timeMonth": 93,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2024-10-07": 23,
