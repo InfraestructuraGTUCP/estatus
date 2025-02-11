@@ -40,12 +40,10 @@ sites:
     url: https://qrsf.ucp.edu.co
     icon: https://img.icons8.com/color/96/000000/complaints.png
     
-  - name: Mesa de Ayuda - HelpPeople
-    url: $AYUDA
+  - name: Registro usuarios
+    url: https://sru.ucp.edu.co
     icon: https://img.icons8.com/fluency/96/000000/help.png
-    expectedStatusCodes:
-    - 401
-    
+        
   - name: DNS 1
     check: "tcp-ping"
     url: w2k12r2-dns1.ucp.edu.co
