@@ -12,7 +12,7 @@ sites:
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/portal.png
     
   - name: Mi aulavirtual - Moodle
-    url: https://www.miaulavirtual.ucp.edu.co
+    url: https://miaulavirtual.ucp.edu.co
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/ucpvirtual.png
     
   - name: Biblioteca CDCH
