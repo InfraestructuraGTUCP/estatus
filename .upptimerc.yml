@@ -11,8 +11,8 @@ sites:
     url: $PORTAL
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/portal.png
     
-  - name: UCP Virtual - Moodle
-    url: https://www.ucpvirtual.edu.co
+  - name: Mi aulavirtual - Moodle
+    url: https://www.miaulavirtual.edu.co
     icon: https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/ucpvirtual.png
     
   - name: Biblioteca CDCH
