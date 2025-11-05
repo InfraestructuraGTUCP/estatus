@@ -1,7 +1,7 @@
 url: https://miaulavirtual.ucp.edu.co
-status: up
-code: 200
-responseTime: 488
-lastUpdated: 2025-11-05T02:07:22.714Z
+status: down
+code: 502
+responseTime: 466
+lastUpdated: 2025-11-05T17:42:17.530Z
 startTime: 2025-02-11T20:06:48.578Z
 generator: Upptime <https://github.com/upptime/upptime>
