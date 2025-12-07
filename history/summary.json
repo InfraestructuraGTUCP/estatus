@@ -318,8 +318,8 @@
     "status": "down",
     "uptime": "99.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "24.42%",
-    "uptimeMonth": "81.17%",
+    "uptimeWeek": "24.30%",
+    "uptimeMonth": "81.14%",
     "uptimeYear": "98.16%",
     "time": 729,
     "timeDay": 0,
@@ -327,7 +327,7 @@
     "timeMonth": 1069,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2025-12-07": 347,
+      "2025-12-07": 360,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
@@ -353,11 +353,11 @@
     "url": "$BOOKED",
     "icon": "https://img.icons8.com/nolan/96/squared-menu.png",
     "slug": "booked",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "53.39%",
-    "uptimeWeek": "52.22%",
-    "uptimeMonth": "86.26%",
+    "uptimeDay": "53.28%",
+    "uptimeWeek": "52.21%",
+    "uptimeMonth": "86.35%",
     "uptimeYear": "98.86%",
     "time": 1154,
     "timeDay": 1855,
@@ -365,7 +365,7 @@
     "timeMonth": 1218,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-12-07": 201,
+      "2025-12-07": 203,
       "2025-12-06": 750,
       "2025-12-05": 667,
       "2025-12-04": 920,
@@ -374,7 +374,7 @@
       "2025-12-01": 542,
       "2025-11-30": 677,
       "2025-11-29": 550,
-      "2025-11-28": 369
+      "2025-11-28": 331
     }
   },
   {
@@ -382,11 +382,11 @@
     "url": "$MULTIPLESITES_UCP",
     "icon": "https://img.icons8.com/nolan/96/squared-menu.png",
     "slug": "multiples-webs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "53.40%",
-    "uptimeWeek": "52.23%",
-    "uptimeMonth": "86.26%",
+    "uptimeDay": "53.29%",
+    "uptimeWeek": "52.21%",
+    "uptimeMonth": "86.35%",
     "uptimeYear": "98.86%",
     "time": 113,
     "timeDay": 88,
@@ -394,7 +394,7 @@
     "timeMonth": 106,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-12-07": 201,
+      "2025-12-07": 203,
       "2025-12-06": 750,
       "2025-12-05": 667,
       "2025-12-04": 920,
@@ -403,7 +403,7 @@
       "2025-12-01": 542,
       "2025-11-30": 677,
       "2025-11-29": 550,
-      "2025-11-28": 369
+      "2025-11-28": 331
     }
   },
   {
@@ -509,14 +509,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.46%",
-    "uptimeYear": "91.10%",
+    "uptimeYear": "91.09%",
     "time": 96,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 86,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-12-07": 348,
+      "2025-12-07": 360,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
