@@ -319,7 +319,7 @@
     "uptime": "98.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.90%",
+    "uptimeMonth": "65.85%",
     "uptimeYear": "96.89%",
     "time": 728,
     "timeDay": 0,
@@ -327,7 +327,7 @@
     "timeMonth": 1167,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2025-12-11": 1278,
+      "2025-12-11": 1299,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -357,19 +357,19 @@
     "url": "$BOOKED",
     "icon": "https://img.icons8.com/nolan/96/squared-menu.png",
     "slug": "booked",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "42.80%",
-    "uptimeWeek": "49.94%",
-    "uptimeMonth": "86.27%",
+    "uptimeDay": "42.68%",
+    "uptimeWeek": "50.09%",
+    "uptimeMonth": "86.31%",
     "uptimeYear": "98.86%",
-    "time": 1133,
+    "time": 1126,
     "timeDay": 1907,
-    "timeWeek": 1176,
+    "timeWeek": 1180,
     "timeMonth": 1145,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2025-12-11": 737,
+      "2025-12-11": 739,
       "2025-12-10": 697,
       "2025-12-09": 719,
       "2025-12-08": 802,
@@ -377,7 +377,7 @@
       "2025-12-06": 750,
       "2025-12-05": 667,
       "2025-12-04": 920,
-      "2025-12-03": 135
+      "2025-12-03": 115
     }
   },
   {
@@ -385,11 +385,11 @@
     "url": "$MULTIPLESITES_UCP",
     "icon": "https://img.icons8.com/nolan/96/squared-menu.png",
     "slug": "multiples-webs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "42.80%",
-    "uptimeWeek": "49.95%",
-    "uptimeMonth": "86.27%",
+    "uptimeDay": "42.69%",
+    "uptimeWeek": "50.10%",
+    "uptimeMonth": "86.31%",
     "uptimeYear": "98.86%",
     "time": 111,
     "timeDay": 93,
@@ -397,7 +397,7 @@
     "timeMonth": 102,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-12-11": 737,
+      "2025-12-11": 739,
       "2025-12-10": 697,
       "2025-12-09": 719,
       "2025-12-08": 802,
@@ -405,7 +405,7 @@
       "2025-12-06": 750,
       "2025-12-05": 667,
       "2025-12-04": 920,
-      "2025-12-03": 135
+      "2025-12-03": 115
     }
   },
   {
@@ -508,7 +508,7 @@
     "icon": "https://raw.githubusercontent.com/InfraestructuraGTUCP/estatus/master/assets/dns1.png",
     "slug": "dns-2",
     "status": "down",
-    "uptime": "96.55%",
+    "uptime": "96.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.41%",
@@ -519,7 +519,7 @@
     "timeMonth": 89,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-12-11": 1279,
+      "2025-12-11": 1299,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
