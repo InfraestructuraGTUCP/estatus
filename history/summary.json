@@ -321,7 +321,7 @@
     "uptime": "97.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.66%",
+    "uptimeMonth": "27.63%",
     "uptimeYear": "93.60%",
     "time": 725,
     "timeDay": 0,
@@ -329,7 +329,7 @@
     "timeMonth": 356,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2025-12-23": 1300,
+      "2025-12-23": 1312,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -371,19 +371,19 @@
     "url": "$BOOKED",
     "icon": "https://img.icons8.com/nolan/96/squared-menu.png",
     "slug": "booked",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "55.70%",
-    "uptimeWeek": "54.88%",
-    "uptimeMonth": "87.99%",
+    "uptimeDay": "56.48%",
+    "uptimeWeek": "54.98%",
+    "uptimeMonth": "88.05%",
     "uptimeYear": "99.00%",
-    "time": 1161,
+    "time": 1160,
     "timeDay": 873,
-    "timeWeek": 1017,
+    "timeWeek": 1019,
     "timeMonth": 1121,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2025-12-23": 585,
+      "2025-12-23": 587,
       "2025-12-22": 627,
       "2025-12-21": 516,
       "2025-12-20": 625,
@@ -391,7 +391,7 @@
       "2025-12-18": 622,
       "2025-12-17": 847,
       "2025-12-16": 510,
-      "2025-12-15": 240
+      "2025-12-15": 213
     }
   },
   {
@@ -399,11 +399,11 @@
     "url": "$MULTIPLESITES_UCP",
     "icon": "https://img.icons8.com/nolan/96/squared-menu.png",
     "slug": "multiples-webs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "55.70%",
-    "uptimeWeek": "54.89%",
-    "uptimeMonth": "87.99%",
+    "uptimeDay": "56.48%",
+    "uptimeWeek": "54.99%",
+    "uptimeMonth": "88.05%",
     "uptimeYear": "99.00%",
     "time": 108,
     "timeDay": 86,
@@ -411,7 +411,7 @@
     "timeMonth": 98,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2025-12-23": 585,
+      "2025-12-23": 587,
       "2025-12-22": 626,
       "2025-12-21": 516,
       "2025-12-20": 625,
@@ -419,7 +419,7 @@
       "2025-12-18": 622,
       "2025-12-17": 847,
       "2025-12-16": 509,
-      "2025-12-15": 240
+      "2025-12-15": 213
     }
   },
   {
@@ -534,7 +534,7 @@
     "timeMonth": 0,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-12-23": 1300,
+      "2025-12-23": 1313,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
