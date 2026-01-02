@@ -1,7 +1,7 @@
 url: $MULTIPLESITES_UCP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-02T09:31:34.886Z
+status: up
+code: 200
+responseTime: 76
+lastUpdated: 2026-01-02T10:16:05.774Z
 startTime: 2022-05-01T21:52:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
