@@ -332,7 +332,7 @@
     "timeMonth": 0,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2026-01-03": 946,
+      "2026-01-03": 959,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -385,19 +385,19 @@
     "url": "$BOOKED",
     "icon": "https://img.icons8.com/nolan/96/squared-menu.png",
     "slug": "booked",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "55.91%",
-    "uptimeWeek": "50.52%",
-    "uptimeMonth": "86.52%",
-    "uptimeYear": "98.88%",
+    "uptimeWeek": "50.56%",
+    "uptimeMonth": "86.67%",
+    "uptimeYear": "98.89%",
     "time": 1093,
-    "timeDay": 713,
+    "timeDay": 727,
     "timeWeek": 705,
     "timeMonth": 1052,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2026-01-03": 465,
+      "2026-01-03": 467,
       "2026-01-02": 440,
       "2026-01-01": 758,
       "2025-12-31": 891,
@@ -405,7 +405,7 @@
       "2025-12-29": 757,
       "2025-12-28": 733,
       "2025-12-27": 750,
-      "2025-12-26": 429
+      "2025-12-26": 362
     }
   },
   {
@@ -413,19 +413,19 @@
     "url": "$MULTIPLESITES_UCP",
     "icon": "https://img.icons8.com/nolan/96/squared-menu.png",
     "slug": "multiples-webs",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "55.92%",
-    "uptimeWeek": "50.53%",
-    "uptimeMonth": "86.52%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "55.91%",
+    "uptimeWeek": "50.56%",
+    "uptimeMonth": "86.67%",
+    "uptimeYear": "98.89%",
     "time": 106,
-    "timeDay": 100,
+    "timeDay": 102,
     "timeWeek": 92,
     "timeMonth": 92,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2026-01-03": 465,
+      "2026-01-03": 467,
       "2026-01-02": 441,
       "2026-01-01": 758,
       "2025-12-31": 891,
@@ -433,7 +433,7 @@
       "2025-12-29": 757,
       "2025-12-28": 733,
       "2025-12-27": 750,
-      "2025-12-26": 429
+      "2025-12-26": 362
     }
   },
   {
@@ -549,7 +549,7 @@
     "timeMonth": 0,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2026-01-03": 947,
+      "2026-01-03": 959,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
