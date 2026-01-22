@@ -1,7 +1,7 @@
 url: https://sru.ucp.edu.co
-status: up
-code: 200
-responseTime: 419
-lastUpdated: 2026-01-21T23:15:01.444Z
+status: down
+code: 500
+responseTime: 488
+lastUpdated: 2026-01-22T21:32:34.969Z
 startTime: 2025-02-11T20:16:36.668Z
 generator: Upptime <https://github.com/upptime/upptime>
